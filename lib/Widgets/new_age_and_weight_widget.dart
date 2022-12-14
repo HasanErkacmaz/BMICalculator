@@ -50,7 +50,7 @@ class _AgeAndWeightWidgetState extends State<AgeAndWeightWidget> {
                           widget.onChange(myAgeController.text);
                         },
                         textAlign: TextAlign.center,
-                        style: const TextStyle(color: Colors.black87, fontSize: 18, fontWeight: FontWeight.w500),
+                        style: const TextStyle(color: Colors.amber, fontSize: 18, fontWeight: FontWeight.w500),
                       ),
                     ),
                     const SizedBox(width: 15),
